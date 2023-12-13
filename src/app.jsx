@@ -1,9 +1,10 @@
 import React from 'react';
+import './antrika.js';
 
-function app() {
+function App() {
 	return (
 		<div>app</div>
 	);
 }
 
-export default app;
+export default App;
